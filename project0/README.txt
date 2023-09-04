@@ -1,1 +1,1 @@
-respond to project 0 description prompt
+I want to have a better understanding of software development best practices in C. I believe that Docker, VSCode, and Github are crucial to modern development environments, which will require me to be very good at it for future job placement. I want to learn more about how they work hand in hand and what is best for actual coding-related challenges. 
